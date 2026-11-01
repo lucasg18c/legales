@@ -20,6 +20,7 @@ La URL pública queda así: `https://lucasg18c.github.io/legales/<slug>/privacy-
 ## Reglas
 
 - **Los cambios van directo a `main`.** Hacer push a `main` publica en internet, sin vista previa.
+- **Solo se publican las páginas.** `_config.yml` excluye este README de GitHub Pages. Cualquier otro archivo de documentación hay que sumarlo ahí, porque si no se publica. La raíz del sitio no tiene página y da 404.
 - **Este repo es público.** Nada de secretos, datos de usuarios ni borradores.
 - **Las URLs no cambian.** Google Play, AdMob y las apps enlazan estas páginas. Si hay que mover una, primero actualizar todos esos enlaces.
 - **Cada página es un HTML autónomo**, con sus estilos dentro. No agregar scripts ni etiquetas de anuncios: AdMob no acepta scripts que requieran consentimiento en la página de la política.
