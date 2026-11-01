@@ -15,6 +15,7 @@ La URL pública queda así: `https://lucasg18c.github.io/legales/<slug>/privacy-
 
 | Producto | Política de privacidad | Términos |
 |---|---|---|
+| Countapp | [`countapp/privacy-policy.html`](countapp/privacy-policy.html) | — |
 | Skyla | [`skyla/privacy-policy.html`](skyla/privacy-policy.html) | — |
 
 ## Reglas
